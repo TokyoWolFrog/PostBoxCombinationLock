@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# ダイヤル式鍵の郵便ポストの開け方
 
-You can use the [editor on GitHub](https://github.com/TokyoWolFrog/PostBoxCombinationLock/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## プライバシーポリシー
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本アプリの利用者の皆さまのプライバシーに関連する情報の重要性を認識し、
+取り扱うための基本方針（プライバシーポリシー）を以下に定めます：
 
-### Markdown
+- パーソナルデータの取得はありません
+- 第三者に個人を特定できる情報を提供することはありません
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### データ分析
+利便性向上のため、匿名でアクセス解析をしております。
+例えばアプリがクラッシュした時にどんな原因でクラッシュしたのかを匿名で送信して、
+バグの素早い修正に役立たせております。
 
+### 免責事項
+不具合に対してサポートを行っておりますが、
+本アプリを利用して生じた損害に関して、
+開発元は責任を負わないものとします。
+
+
+本サイトは[Jekyll ](https://jekyllrb.com/)と
+下記のようなmarkdownを使ってます。
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TokyoWolFrog/PostBoxCombinationLock/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
